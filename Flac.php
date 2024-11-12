@@ -203,7 +203,7 @@
  * @category Command-line, FLAC 
  * @package applebiter/flac 
  * @author Richard Lucas <webmaster@applebiter.com> 
- * @link https://bitbucket.org/applebiter/flac
+ * @link https://github.com/applebiter/php-flac
  * @license MIT License 
  * 
  * The MIT License (MIT)
